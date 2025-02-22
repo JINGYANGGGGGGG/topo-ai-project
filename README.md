@@ -54,7 +54,7 @@ topo_ai_project/
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/JINGYANGGGGGGG/topo-ai-project.git
-   cd topo-ai-project/backend
+   cd topo-ai-project/
 2. **Create a virtual environment & install dependencies**:
    python -m venv env
    source env/bin/activate  # Mac/Linux
