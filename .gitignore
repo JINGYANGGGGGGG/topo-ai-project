@@ -1,0 +1,10 @@
+# Node modules (frontend)
+frontend/node_modules
+
+# Python virtual environment
+env/
+__pycache__/
+
+# Logs and temporary files
+*.log
+*.pyc
